@@ -145,4 +145,7 @@ var SETDEX_SM = {
 	"Arceus": {
 		"EKiller": {"level":100,"evs":{"at":252,"sp":252,"df":4},"nature":"Jolly","ability":"Multitype","item":"Life Orb","moves":["Extreme Speed","Earthquake","Shadow Claw"]},
 	},
+	"Excadrill Pinsirite": {
+		"Offensive Rapid Spin": {"level":100,"evs":{"at":252,"sp":252,"df":4},"nature":"Jolly","ability":"Aerilate","item":"Pinsirite","moves":["Earthquake","Return","Rapid Spin","Rock Slide"]},
+	},
 }

@@ -5849,6 +5849,19 @@ var POKEDEX_BW = $.extend(true, {}, POKEDEX_DPP, {
     },
     "w": 40.4
   },
+  "Excadrill Pinsirite": {
+    "t1": "Ground",
+    "t2": "Flying",
+    "bs": {
+      "hp": 110,
+      "at": 165,
+      "df": 80,
+      "sa": 60,
+      "sd": 85,
+      "sp": 108
+    },
+    "w": 44.4
+  },
   "Ferroseed": {
     "t1": "Grass",
     "t2": "Steel",
