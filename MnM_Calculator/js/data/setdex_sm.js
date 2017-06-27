@@ -148,4 +148,10 @@ var SETDEX_SM = {
 	"Excadrill Pinsirite": {
 		"Offensive Rapid Spin": {"level":100,"evs":{"at":252,"sp":252,"df":4},"nature":"Jolly","ability":"Aerilate","item":"Pinsirite","moves":["Earthquake","Return","Rapid Spin","Rock Slide"]},
 	},
+	"Rayquaza": {
+		"Focus Sash DD Sweeper": {"level":100,"evs":{"at":252,"sp":252,"df":4},"nature":"Jolly","ability":"Air Lock","item":"Focus Sash","moves":["Dragon Ascent","V-Create","Earthquake","Extreme Speed"]},
+	},
+	"Jirachi Sceptilite": {
+		"CM + 3 Attacks": {"level":100,"evs":{"sa":252,"sp":252,"df":4},"nature":"Timid","ability":"Lightning Rod","item":"Sceptilite","moves":["Draco Meteor","Flash Cannon","Thunder"]},
+	},
 }

@@ -2164,6 +2164,19 @@ var POKEDEX_ADV = $.extend(true, {}, POKEDEX_GSC, {
     "w": 1.1,
     "ab": "Serene Grace"
   },
+  "Jirachi Sceptilite": {
+    "t1": "Steel",
+    "t2": "Dragon",
+    "bs": {
+      "hp": 100,
+      "at": 125,
+      "df": 110,
+      "sa": 140,
+      "sd": 100,
+      "sp": 125
+    },
+    "w": 4.1
+  },
   "Kecleon": {
     "t1": "Normal",
     "bs": {
