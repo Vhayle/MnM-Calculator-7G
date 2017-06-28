@@ -4,7 +4,8 @@ var SETDEX_SM = {
 	},
 	"Groudon-Primal": {
 		"Specially Defensive": {"level":100,"evs":{"hp":252,"df":4,"sd":252},"nature":"Sassy","ability":"Desolate Land","item":"Red Orb","moves":["Thunderbolt","Lava Plume","Precipice Blades","Thunder"]},
-		"Double Dance": {"level":100,"evs":{"at":252,"hp":140,"sp":116},"nature":"Adamant","ability":"Desolate Land","item":"Red Orb","moves":["Precipice Blades","Stone Edge","Fire Punch","Dragon Claw"]},
+		"Double Dance": {"level":100,"evs":{"at":252,"hp":120,"sp":136},"nature":"Adamant","ability":"Desolate Land","item":"Red Orb","moves":["Precipice Blades","Stone Edge","Fire Punch","Dragon Claw"]},
+		"Offensive Stealth Rock": {"level":100,"evs":{"at":252,"hp":252,"sd":4},"nature":"Adamant","ability":"Desolate Land","item":"Red Orb","moves":["Precipice Blades","Stone Edge","Fire Punch","Dragon Tail"]},
 	},
 	"Blissey Sablenite": {
 		"Specially Defensive": {"level":100,"evs":{"hp":4,"df":252,"sd":252},"nature":"Bold","ability":"Magic Bounce","item":"Sablenite","moves":["Shadow Ball","Ice Beam","Hyper Voice","Flamethrower"]},
@@ -153,5 +154,26 @@ var SETDEX_SM = {
 	},
 	"Jirachi Sceptilite": {
 		"CM + 3 Attacks": {"level":100,"evs":{"sa":252,"sp":252,"df":4},"nature":"Timid","ability":"Lightning Rod","item":"Sceptilite","moves":["Draco Meteor","Flash Cannon","Thunder"]},
+	},
+	"Dugtrio Lucarionite": {
+		"1 Turn Trapper" :{"level":100,"evs":{"at":252,"sp":252,"hp":4},"nature":"Adamant","ability":"Adaptability","item":"Lucarionite","moves":["Earthquake","Stone Edge","Sucker Punch","Pursuit"]},
+	},
+	"Arceus-Psychic": {
+		"Physically Defensive": {"level":100,"evs":{"hp":252,"df":232,"sp":24},"nature":"Bold","ability":"Multitype","item":"Mind Plate","moves":["Judgment","Ice Beam"]},
+	},
+	"Noivern Salamencite": {
+		"Special Wallbreaker": {"level":100,"evs":{"sa":252,"sp":252,"df":4},"nature":"Timid","ability":"Aerilate","item":"Salamencite","moves":["Boomburst","Draco Meteor","Fire Blast","U-turn"]},
+	},
+	"Mandibuzz Venusaurite": {
+		"Anti-Setup (Physically Defensive)": {"level":100,"evs":{"df":252,"hp":252,"sd":4},"nature":"Impish","ability":"Thick Fat","item":"Venusaurite","moves":["Foul Play","U-turn"]},
+	},
+	"Mandibuzz Sablenite": {
+		"Anti-Setup (Physically Defensive)": {"level":100,"evs":{"df":252,"hp":252,"sd":4},"nature":"Impish","ability":"Magic Bounce","item":"Sablenite","moves":["Foul Play","U-turn"]},
+	},
+	"Lucario Pinsirite": {
+		"Swords Dance Aerilate Sweeper": {"level":100,"evs":{"at":252,"sp":252,"df":4},"nature":"Jolly","ability":"Aerilate","item":"Pinsirite","moves":["Close Combat","Return","Extreme Speed","Stone Edge"]},
+	},
+	"Lucario-Mega": {
+		"Swords Dance The Force Awakens": {"level":100,"evs":{"at":252,"sp":252,"hp":4},"nature":"Jolly","ability":"Adaptability","item":"Lucarionite","moves":["Close Combat","Extreme Speed","Iron Tail","Stone Edge"]},
 	},
 }

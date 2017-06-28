@@ -189,6 +189,19 @@ var POKEDEX_RBY = {
     },
     "w": 33.3
   },
+	"Dugtrio Lucarionite": {
+    "t1": "Ground",
+    "bs": {
+      "hp": 35,
+      "at": 115,
+      "df": 68,
+      "sa": 75,
+      "sd": 70,
+      "sp": 142,
+      "sl": 70
+    },
+    "w": 36.8
+  },
  "Electrode": {
     "t1": "Electric",
     "bs": {
@@ -4360,6 +4373,19 @@ var POKEDEX_DPP = $.extend(true, {}, POKEDEX_ADV, {
     },
     "w": 54.0
   },
+  "Lucario Pinsirite": {
+    "t1": "Fighting",
+    "t2": "Flying",
+    "bs": {
+      "hp": 70,
+      "at": 140,
+      "df": 90,
+      "sa": 125,
+      "sd": 90,
+      "sp": 110
+    },
+    "w": 58.0
+  },
   "Lumineon": {
     "t1": "Water",
     "bs": {
@@ -6464,6 +6490,32 @@ var POKEDEX_BW = $.extend(true, {}, POKEDEX_DPP, {
       "sp": 80
     },
     "w": 39.5
+  },
+  "Mandibuzz Venusaurite": {
+    "t1": "Dark",
+    "t2": "Flying",
+    "bs": {
+      "hp": 110,
+      "at": 83,
+      "df": 145,
+      "sa": 77,
+      "sd": 115,
+      "sp": 80
+    },
+    "w": 95.0
+  },
+  "Mandibuzz Sablenite": {
+    "t1": "Dark",
+    "t2": "Flying",
+    "bs": {
+      "hp": 110,
+      "at": 75,
+      "df": 155,
+      "sa": 75,
+      "sd": 145,
+      "sp": 50
+    },
+    "w": 189.5
   },
   "Maractus": {
     "t1": "Grass",
@@ -9074,6 +9126,19 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
       "sp": 123
     },
     "w": 85.0
+  },
+  "Noivern Salamencite": {
+    "t1": "Flying",
+    "t2": "Dragon",
+    "bs": {
+      "hp": 85,
+      "at": 80,
+      "df": 130,
+      "sa": 107,
+      "sd": 90,
+      "sp": 143
+    },
+    "w": 95.0
   },
   "Pancham": {
     "t1": "Fighting",
