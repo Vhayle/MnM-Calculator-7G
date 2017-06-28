@@ -1,3 +1,4 @@
 - All Pokemons from A+ rank to B- rank (check Viability Rankings)(except Shedinja, Thundurus, Shuckle, Mew and Arceus-Water/Rock/Dark
 - Added Excadrill
 - Added Jirachi Sceptilite and Rayquaza
+- Added Offensive SR PDon, Noivern, Mandibuzz, Lucario, Lucario-Mega. Changed EVs for Double Dance PDon
