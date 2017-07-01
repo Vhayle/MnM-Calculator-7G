@@ -5927,6 +5927,32 @@ var POKEDEX_BW = $.extend(true, {}, POKEDEX_DPP, {
     },
     "w": 110.0
   },
+  "Ferrothorn Heracronite": {
+    "t1": "Grass",
+    "t2": "Steel",
+    "bs": {
+      "hp": 74,
+      "at": 154,
+      "df": 171,
+      "sa": 54,
+      "sd": 126,
+      "sp": 10
+    },
+    "w": 118.5
+  },
+  "Ferrothorn Blue Orb": {
+    "t1": "Grass",
+    "t2": "Steel",
+    "bs": {
+      "hp": 74,
+      "at": 144,
+      "df": 131,
+      "sa": 84,
+      "sd": 136,
+      "sp": 20
+    },
+    "w": 188.0
+  },
   "Foongus": {
     "t1": "Grass",
     "t2": "Poison",
@@ -7206,6 +7232,19 @@ var POKEDEX_BW = $.extend(true, {}, POKEDEX_DPP, {
       "sa": 125,
       "sd": 80,
       "sp": 111
+    },
+    "w": 61.0
+  },
+  "Thundurus Lopunnite": {
+    "t1": "Electric",
+    "t2": "Fighting",
+    "bs": {
+      "hp": 79,
+      "at": 175,
+      "df": 80,
+      "sa": 125,
+      "sd": 80,
+      "sp": 141
     },
     "w": 61.0
   },
@@ -9574,6 +9613,20 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
     "w": 305.0,
     "ab": "Aura Break"
   },
+  "Zygarde Glalitite": {
+    "t1": "Dragon",
+    "t2": "Ground",
+    "bs": {
+      "hp": 108,
+      "at": 140,
+      "df": 121,
+      "sa": 121,
+      "sd": 95,
+      "sp": 115
+    },
+    "w": 398.7,
+    "ab": "Refrigerate"
+  },
   "Zygarde Pinsirite": {
     "t1": "Dragon",
     "t2": "Flying",
@@ -11032,6 +11085,34 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
     },
     "w": 45.5,
     "ab": "Grassy Surge"
+  },
+  "Tapu Bulu Aerodactylite": {
+    "t1": "Grass",
+    "t2": "Fairy",
+    "bs": {
+      "hp": 70,
+      "at": 160,
+      "df": 135,
+      "sa": 95,
+      "sd": 115,
+      "sp": 95
+    },
+    "w": 60.5,
+    "ab": "Tough Claws"
+  },
+  "Tapu Bulu Mewtwonite X": {
+    "t1": "Grass",
+    "t2": "Fighting",
+    "bs": {
+      "hp": 70,
+      "at": 210,
+      "df": 125,
+      "sa": 85,
+      "sd": 105,
+      "sp": 75
+    },
+    "w": 50.5,
+    "ab": "Steadfast"
   },
   "Tapu Fini": {
     "t1": "Water",

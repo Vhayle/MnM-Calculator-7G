@@ -176,4 +176,22 @@ var SETDEX_SM = {
 	"Lucario-Mega": {
 		"Swords Dance The Force Awakens": {"level":100,"evs":{"at":252,"sp":252,"hp":4},"nature":"Jolly","ability":"Adaptability","item":"Lucarionite","moves":["Close Combat","Extreme Speed","Iron Tail","Stone Edge"]},
 	},
+	"Tapu Bulu Aerodactylite": {
+		"Wallbreaker": {"level":100,"evs":{"at":252,"sp":252,"hp":4},"nature":"Jolly","ability":"Tough Claws","item":"Aerodactylite","moves":["Wood Hammer","Horn Leech","Superpower","Stone Edge"]},
+	},
+	"Tapu Bulu Mewtwonite X": {
+		"Wallbreaker": {"level":100,"evs":{"at":252,"hp":252,"df":4},"nature":"Adamant","ability":"Steadfast","item":"Mewtwonite X","moves":["Wood Hammer","Superpower","Horn Leech","Stone Edge"]},
+	},
+	"Zygarde Glalitite": {
+		"Dragon Dance Sweeper": {"level":100,"evs":{"at":252,"sp":252,"df":4},"nature":"Jolly","ability":"Refrigerate","item":"Glalitite","moves":["Return","Extreme Speed","Thousand Arrows","Outrage"]},
+	},
+	"Thundurus Lopunnite": {
+		"Offensive Pivot": {"level":100,"evs":{"at":252,"sp":252,"df":4},"nature":"Jolly","ability":"Scrappy","item":"Lopunnite","moves":["Wild Charge","Superpower","U-turn","Knock Off"]},
+	},
+	"Ferrothorn Heracronite": {
+		"Skill Link Attacker (Trick Room)": {"level":100,"evs":{"hp":252,"at":252,"sd":4},"ivs":{"sp":0},"nature":"Brave","ability":"Skill Link","item":"Heracronite","moves":["Bullet Seed","Gyro Ball","Pin Missile","Explosion"]},
+	},
+	"Ferrothorn Blue Orb": {
+		"Mixed Wall": {"level":100,"evs":{"hp":252,"df":84,"sd":172},"nature":"Impish","ability":"Primordial Sea","item":"Blue Orb","moves":["Gyro Ball","Power Whip","Knock Off","Bulldoze"]},
+	},
 }
