@@ -151,6 +151,7 @@ var SETDEX_SM = {
 	},
 	"Rayquaza": {
 		"Focus Sash DD Sweeper": {"level":100,"evs":{"at":252,"sp":252,"df":4},"nature":"Jolly","ability":"Air Lock","item":"Focus Sash","moves":["Dragon Ascent","V-Create","Earthquake","Extreme Speed"]},
+		"Mixed Wallbreaker": {"level":100,"evs":{"at":252,"sp":252,"df":4},"nature":"Naive","ability":"Air Lock","item":"Life Orb","moves":["Dragon Ascent","Draco Meteor","V-create","Earthquake"]},
 	},
 	"Jirachi Sceptilite": {
 		"CM + 3 Attacks": {"level":100,"evs":{"sa":252,"sp":252,"df":4},"nature":"Timid","ability":"Lightning Rod","item":"Sceptilite","moves":["Draco Meteor","Flash Cannon","Thunder"]},
@@ -193,5 +194,14 @@ var SETDEX_SM = {
 	},
 	"Ferrothorn Blue Orb": {
 		"Mixed Wall": {"level":100,"evs":{"hp":252,"df":84,"sd":172},"nature":"Impish","ability":"Primordial Sea","item":"Blue Orb","moves":["Gyro Ball","Power Whip","Knock Off","Bulldoze"]},
+	},
+	"Ho-Oh": {
+		"Choice Band": {"level":100,"evs":{"at":252,"hp":248,"sp":8},"nature":"Adamant","ability":"Regenerator","item":"Choice Band","moves":["Brave Bird","Sacred Fire","Earthquake"]},
+	},
+	"Marshadow Metagrossite": {
+		"Bulk Up": {"level":100,"evs":{"at":252,"hp":4,"sp":252},"nature":"Jolly","ability":"Tough Claws","item":"Metagrossite","moves":["Close Combat","Shadow Sneak","Spectral Thief","Ice Punch"]},
+	},
+	"Marshadow Lucarionite": {
+		"Bulk Up": {"level":100,"evs":{"at":252,"hp":4,"sp":252},"nature":"Jolly","ability":"Adaptability","item":"Lucarionite","moves":["Close Combat","Shadow Sneak","Spectral Thief","Ice Punch"]},
 	},
 }

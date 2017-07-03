@@ -10326,6 +10326,32 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
     },
     "w": 22.2,
   },
+  "Marshadow Metagrossite": {
+    "t1": "Fighting",
+    "t2": "Ghost",
+    "bs": {
+      "hp": 90,
+      "at": 135,
+      "df": 100,
+      "sa": 1000,
+      "sd": 110,
+      "sp": 165
+    },
+    "w": 415.1,
+  },
+  "Marshadow Lucarionite": {
+    "t1": "Fighting",
+    "t2": "Ghost",
+    "bs": {
+      "hp": 90,
+      "at": 160,
+      "df": 98,
+      "sa": 115,
+      "sd": 90,
+      "sp": 147
+    },
+    "w": 25.7,
+  },
   "Meowth-Alola": {
     "t1": "Dark",
     "bs": {
